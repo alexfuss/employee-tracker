@@ -11,10 +11,10 @@ You need to set up your MySQL database before you can run the code.
 
 1. Download and unzip the code, and install the prerequisites, as explained in the "Installing" section of this README.
 2. In your "employee-tracker-master" directory there is a "db" directory. In that directory there are two files: schema.sql and seed.sql. 
-    a. Open your MySQL Workbench and run schema.sql to create the database and tables.
-    b. Then run seed.sql to populate the database with some data.
-3. Now that your database is ready to be queried, open index.js and enter your MySQL root password on line 9.
-4. Open a Git terminal. Type "node index.js".
+3. Open your MySQL Workbench and run schema.sql to create the database and tables.
+4. Then run seed.sql to populate the database with some data.
+5. Now that your database is ready to be queried, open index.js and enter your MySQL root password on line 9.
+6. Open a Git terminal. Type "node index.js".
 
 # Prerequisites
 Git terminal
